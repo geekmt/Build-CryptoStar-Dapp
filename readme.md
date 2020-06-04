@@ -10,4 +10,5 @@ Token_name = "Mohit SC token";
 Token_symbol = "MHIT";
 
 Token Address on Rinkeby:
-0x2233c4149d790aBbCf0D068BE0c9316cA7A51EE2
+0x2233c4149d790aBbCf0D068BE0c9316cA7A51EE2"# Build-CryptoStar-Dapp-Final" 
+"# Build-CryptoStar-Dapp-Final" 
